@@ -1,2 +1,22 @@
-# -Assembler-MIPS
-Ejemplos de programacion en Assembler MIPS
+# MIPS ASSEMBLY EJEMPLOS
+- Cifrado de vigenere
+- Codigo unario
+- Cuenta vocales
+- Decimal a caracter
+- Decimal a string
+- Empaquetar decimal
+- Primos
+- Factorial
+- Fibonacci
+- Hola mundo
+- Numero Perfectos
+- Ordenar vector
+- Matrices
+- Triángulo de pascal
+- Macros
+- Desempaquetar decimal
+- Contar bits prendidos y/o apagados
+- Apagar y prender bits
+- String a decimal
+- Operaciones con bits
+- Y otros...
